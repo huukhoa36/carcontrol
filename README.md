@@ -1,5 +1,5 @@
-# remote control car
-Pin connection:
+# REMOTE CAR CONTROL
+# Pin connection:
 
 TX:
 
