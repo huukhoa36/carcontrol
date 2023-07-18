@@ -1,4 +1,5 @@
 # REMOTE CAR CONTROL
+I use KeilC v5 + STM32CubeMX
 # Pin connection:
 
 TX:
