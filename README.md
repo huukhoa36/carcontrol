@@ -2,7 +2,7 @@
 I use KeilC v5 + STM32CubeMX
 # Pin connection:
 
-TX:
+# TX:
 
 STM32F103C8T6 - Joystick
 
@@ -24,7 +24,7 @@ PA5 - MISO
 
 --------------------
 
-RX:
+# RX:
 
 STM32F103C8T6 - L298N
 
