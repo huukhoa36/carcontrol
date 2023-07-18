@@ -1,6 +1,8 @@
 # remote control car
 Pin connection:
+
 TX:
+
 STM32F103C8T6 - Joystick
 PA1 - VRx
 PA2 - VRy
